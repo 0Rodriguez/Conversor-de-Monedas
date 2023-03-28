@@ -4,7 +4,9 @@
 <div align="center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="300"/></div>
 
 <p align="center" >
-     <img width="500" heigth="300" src="Preview App.png">
+     <img width="500" heigth="300" src="/img/Preview-App.png">
+     <img width="500" heigth="300" src="/img/Preview-App2.png">
+     <img width="500" heigth="300" src="/img/Preview-App3.png">
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
