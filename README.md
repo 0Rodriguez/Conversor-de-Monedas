@@ -49,3 +49,4 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 ### Extras: 🌡️
 
 - Un Convertidor de Temperaturas.
+- Mensajes de Validación en todas las secciones.
