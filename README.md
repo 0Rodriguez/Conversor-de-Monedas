@@ -9,6 +9,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+<br>
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 
 </div>
@@ -43,6 +44,6 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 
 ---
 
-### Extras:
+### Extras: 🌡️
 
 - Un Convertidor de Temperaturas.
